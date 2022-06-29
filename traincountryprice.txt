@@ -1,0 +1,9 @@
+Russia 80
+Belgium 90
+France 110
+England 80
+Portugal 120
+South Korea 95
+China 100
+India 50
+Ukraine 85

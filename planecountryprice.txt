@@ -1,0 +1,10 @@
+Russia 120
+Italy 130
+Finland 125
+Japan 130
+Germany 125
+China 130
+Brazil 135
+Canada 140
+France 145
+Canada 150

@@ -1,0 +1,7 @@
+Turkey 90
+Italy 150	
+France 175
+England 80
+America 120
+Taiwan 95
+Japan 130
